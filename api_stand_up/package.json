@@ -1,0 +1,16 @@
+{
+  "name": "api_stand_up",
+  "version": "1.0.0",
+  "description": "api для сервиса регистрации на standup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Alesia Pavlova (AlesiaPavlova@outlook.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
